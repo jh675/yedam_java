@@ -5,5 +5,6 @@ public class Hellojava {
 		System.out.println("Welcome to Java");
 		System.out.println("2021-12-24");
 		System.out.println("2021-12-29");
+		System.out.println("적응");
 	}
 }
